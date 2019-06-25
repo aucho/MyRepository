@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "brick-22",
+    "texture": "99tJ2sUr9OXJWbsBNxyYbm",
+    "rect": [
+      2,
+      4,
+      114,
+      114
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      120,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
